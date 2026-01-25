@@ -1,0 +1,19 @@
+---
+title: "Weekly Roundup: November 26th, 2021"
+date: 2021-11-26T11:00:00.000Z
+author: "Daniel Barrett"
+url: https://www.betterquestions.co/weekly-roundup-november-26th-2021/
+slug: weekly-roundup-november-26th-2021
+description: ""
+image: https://images.unsplash.com/photo-1521404567986-a2c39cde0c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxibGFjayUyMGZyaWRheXxlbnwwfHx8fDE2Mzc2MDk1NjU&ixlib=rb-1.2.1&q=80&w=2000
+tags: []
+content_type: roundup
+word_count: 15
+scraped_at: 2026-01-25T16:27:10.404956Z
+---
+
+## This post is for paying subscribers only
+
+[Subscribe now](#/portal/signup)
+
+Already have an account? [Sign in](#/portal/signin)
